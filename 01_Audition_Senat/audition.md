@@ -1,4 +1,4 @@
-%**Audition de la commission des lois du Sénat du 21 juin 2017 relative aux projets de loi Confiance**
+%**Audition de la commission des lois du Sénat du 21 juin 2017 relative aux projets de lois Confiance**
 %**Synthèse des propos tenus par Regards Citoyens**
 %![](logo.png "")
 
@@ -26,7 +26,7 @@ Sans risque de violation de la vie privée des élus, la suppression de ces disp
 
 ### Problèmes relatifs à la publicité des déclarations
 
-Plusieurs problèmes nous semblent importants à prendre en considération dans les projets de loi :
+Plusieurs problèmes nous semblent importants à prendre en considération dans les projets de lois :
 
  - Les déclarations d'intérêts publiées par la HATVP doivent être retirées le jour de la perte de fonction ou de mandat : beaucoup de journalistes et de citoyens n'ayant pas sauvegardé ces déclarations sont frustrés de ne plus les retrouver. Pour limiter les risques en matière de conflit d'intérêts et de pantouflage qui restent susceptibles de s'exercer dans les mois et années qui font suite au mandat, il faut **conserver les déclarations d'intérêts en ligne pour une durée d'au moins un an après la fin des responsabilités**.
  - Pour les déclarations de patrimoine de sortie de fonction : pour des raisons de logistique et de traitement (dépôt par les anciens ministres, interrogation de la DGFIP, puis traitement par la HATVP), elles ne sont publiables que pendant une durée totale de 15 jours. En plus d'étendre la durée de publication, il serait intéressant de **prévoir que le contrôle sur l'enrichissement s'étende sur au moins l'année suivant la perte de fonction ou de mandat**. En matière de lutte contre les conflits d'intérêts, les retours d'ascenseur une fois les fonctions perdues sont à limiter.
@@ -54,7 +54,7 @@ La transparence est encore une fois un instrument fondamental pour traiter cette
  - elle permet de se concentrer sur les éléments qui posent problème en traitant les alertes citoyennes ;
  - elle vise à rétablir la confiance en montrant la légitimité de l'immense majorité des dépenses.
 
-Nous recommandons par conséquent la **publication en Open Data de tous les documents justifiants les comptes des partis, les recettes et dépenses des candidats**, ainsi que des avis de la CNCCFP, en ajoutant à ses missions l'obligation de publier ces documents dans un format librement réutilisable.
+Nous recommandons par conséquent la **publication en Open Data de tous les documents justifiant les comptes des partis, les recettes et dépenses des candidats**, ainsi que des avis de la CNCCFP, en ajoutant à ses missions l'obligation de publier ces documents dans un format librement réutilisable.
 
 La disposition prévue sur les donateurs va dans le bon sens, mais il lui manque un volet publicité (au dessus de 500\ € par exemple) sinon la CNCCFP ne saura pas détecter les problèmes.
 
