@@ -4,7 +4,7 @@
 
 #« La confiance ne se proclame pas »
 
-Le projet de loi annonce rétablir la confiance.
+Les projets de lois que votre commission est amenée à étudier annoncent vouloir rétablir la confiance.
 
 Pour ce faire, il faut des règles, du contrôle et des sanctions en cas de manquement, comme le prévoient déjà beaucoup de dispositions des présents projets de loi. Mais cela ne peut pas suffire.
 
