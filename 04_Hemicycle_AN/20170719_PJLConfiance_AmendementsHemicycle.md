@@ -10,7 +10,6 @@
 
 Si les règles de déport doivent être publiques, il semble encore plus important que les parlementaires et les conditions de déport soient rendues publiques. Cet amendement permet de s'assurer que les parlementaires devant se déporter le font effectivement et de valoriser auprès du public ces actions.
 
-
 ### Article 2
 
 Terminer l'alinéa 5, par les mots suivants\ : «\ ainsi que les parlementaires qui ont du faire cesser immédiatement ou prévenir les situations de conflit d’intérêts telles que définies au second alinéa du présent article.\ » 
@@ -18,6 +17,18 @@ Terminer l'alinéa 5, par les mots suivants\ : «\ ainsi que les parlementaires 
 #### Exposé
 
 Afin de rétablir la confiance avec les citoyens, il est important que les décisions prises par les organismes de déontologie soient effectuées de manière transparente et que les citoyens soient informés des actions entreprises pour faire cesser ou prévenir les situations de conflits d'intérêts. Il est donc important que le registre public référence les informations liées aux déports des parlementaires mais également celles liées à la cessation des activités en question.
+
+## Pantouflage : rendre publics les avis de la commission de déontologie
+
+### Après l'article 2
+
+Ajouter un article ainsi rédigé\ :
+
+«\ Compléter le V. de l'article 25 octies de la loi 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires, d'un 6ème alinéa ainsi rédigé\ :  "Les avis rendus sur le fondement du présent V. sont rendus publics par la Commission. Ces avis sont publiés en ligne et librement réutilisables au sens du livre II, du titre III du Code des relations entre le public et l'administration."\ »
+
+#### Exposé
+
+La commission de déontologie émet des avis relatifs au passage de fonctionnaires vers les entreprises privées. Si ces avis sont souvent positifs, ils limitent souvent les possibilités de contacts ou d'échanges entre les anciens agents publics et leurs anciennes administrations. Faute de publicité de ces avis il n'est pas possible, notamment pour les personnes amenées à travailler avec ces anciens fonctionnaires, d'avoir connaissance des restrictions demandées par la commission. Si pour les affaires d'anciens collaborateurs ministériels (Pérol, Richard ou Kopp), le contenu a finalement été dévoilé par la presse, il serait beaucoup plus sain que la publication soit la règle. Cette publication permettrait d'anticiper et d'éviter tout problème déontologique à ces anciens agents publics.
 
 ## Vérifier le non enrichissement pendant et à l'issue du mandat
 
@@ -64,7 +75,6 @@ Ajouter un article additionnel ainsi rédigé\ :
 
 Le a du 2) de l’article [L. 311-5](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000033218919&cidTexte=LEGITEXT000031366350&dateTexte=20170329#)) du code des relations entre le public et l’administration est abrogé.
 
-
 #### Exposé
 
 Alors que les délibérations au sein du parlement font l'objet d'une très grande transparence, ce dernier publiant en ligne et en open data tous ses amendements et compte-rendus de réunion, les décisions prises par le gouvernement font encore l'objet de la plus grande opacité. Il est ainsi impossible de connaître l'empreinte normative de telle ou telle disposition et d'évaluer l'impact des lobbyistes sur ces décisions.
@@ -74,6 +84,29 @@ Cette grande opacité est source de beaucoup de fantasmes et de confusion.
 L'abrogation de ces dispositions ne veut pas dire que les discussions interministérielles seront rendues publiques en temps réel. Certaines resteront même secrètes. En effet, les dispositions liées au secret défense (prévues au b) de l'[article L311-5](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000033218919&cidTexte=LEGITEXT000031366350&dateTexte=20170329#)) et à la non communicabilité des documents préparatoires à une décision ([article L311-2](https://www.legifrance.gouv.fr/affichCodeArticle.do?idArticle=LEGIARTI000031367700&cidTexte=LEGITEXT000031366350&dateTexte=20170628#)) protègent déjà le gouvernement du risque d'une quelconque ingérance dans le processus de prise de décision.
 
 Alors que la France prend part activement au Partenariat pour un Gouvernement Ouvert, il semble urgent que les réunions interministérielles soient rendues communicables à tout citoyen, notamment afin de s'assurer que la France tienne ses engagements vis-à-vis de ses partenaires internationaux.
+
+## Assurer la publicité des déclarations d'intérêt des membres de cabinets, des responsables des hautes autorités et autres décideurs publics
+
+### Après l'article 2 quater
+
+Ajouter un article additionnel ainsi rédigé :
+
+Après le quatrième alinéa du III. de l'article 5 de la loi 2013-907 du 11 octobre 2013 relative à la transparence de la vie publique, ajouter deux alinéas 4) et 5) ainsi rédigés :
+
+4) Les activités professionnelles exercées par le conjoint, le partenaire lié par un pacte civil de solidarité ou le concubin pour les personnes mentionnées aux 4) à 7) du I de l'article 11 et au III de ce même article
+
+5) Les rémunérations, gratifications ou évaluations financières déclarées par les personnes mentionnées aux 4) à 7) du I de l'article 11 et au III de ce même article.
+
+#### Exposé
+
+Le Conseil constitutionnel a jugé dans sa [décision 2013-676 DC du 9 octobre 2013](http://www.conseil-constitutionnel.fr/conseil-constitutionnel/francais/les-decisions/acces-par-date/decisions-depuis-1959/2013/2013-676-dc/decision-n-2013-676-dc-du-09-octobre-2013.138228.html#) que la publication in extenso des déclarations d'intérêts des personnes n'étant ni membres du gouverment, ni élus, portait une atteinte disproportionnée à la vie privée des personnes concernées (considérant 22).
+
+Cette décision a eu pour effet qu'aucune des déclarations d'intérêts des personnes non élues ne soient rendues publiques et ce malgré l'importance de leurs fonctions. Les conseillers auprès du Président de la République, les membres de cabinets ministériels, les membres des autorités indépendantes ont de grandes responsabilités et leur probité doit pouvoir être vérifiée par tout citoyen.
+
+Le présent amendement propose donc de retirer les informations pouvant porter atteinte à la vie privée des personnes concernées au vu de leur statut de personnes non élues tout en s'assurant de la publicité de leurs intérêts.
+
+Ainsi les fonctions professionnelles des conjoints ainsi que les informations financières ne seront pas publiés avec leurs déclarations d'intérêts.
+
 
 ## Déclaration d'intérêts des collaborateurs et administrateurs
 
