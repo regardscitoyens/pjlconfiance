@@ -153,13 +153,31 @@ Pour être compréhensibles par tous, les comptes des partis doivent non seuleme
 
 ### À l'article 8
 
-I. À l'alinéa 39, ajouter après le mot «\ communication\ » les mots «\ , dans un format numérique,\ ».
+À l'alinéa 39, ajouter après le mot «\ communication\ » les mots «\ , dans un format numérique,\ ».
 
-II. Compléter l'alinéa 39 de la phrase suivante\ : «\ La commission rend publics ces documents.\ »
+#### Exposé
+
+Afin de faciliter le travail de la commission des comptes de campagne et notamment d'alléger son travail de numérisation, il est important que les pièces soient communiquées sous un format numérique.
+
+### À l'article 9
+
+Compléter l'alinéa 39 de la phrase suivante\ : «\ La commission rend publics ces documents lorsqu'ils existent au format numérique.\ »
 
 #### Exposé
 
-Afin d'assurer la transparence des comptes des partis politiques, il est important que toutes les pièces comptables nécessaires à la compréhension de ces comptes par la commission soient accessibles publiquement. Pour éviter qu'il incombe à la commission un fastidieux travail de numérisation des documents demandés, les partis doivent communiquer ces documents dans un format numérique. Ainsi la publication par la Commission de ces documents pourra être effecutée sans coût et permettre une information complète.
+Afin d'assurer la transparence des comptes des partis politiques, il est important que toutes les pièces comptables nécessaires à la compréhension de ces comptes par la commission soient accessibles publiquement. Afin de ne pas générer un fastidieux travail de numérisation des documents demandés, cette publicité ne concerne que les documents dans un format numérique. Ainsi la publication par la Commission de ces documents pourra être effecutée sans coût et permettre une information étendue.
+
+## Lutte contre la corruption sur les prêts aux partis
+
+### À l'article 8
+
+À l'alinéa 37, après la seconde occurrence du mot « prêteurs », supprimer les mots « personnes morales ».
+
+#### Exposé
+
+Au vu des sommes en jeu dans les prêts aux partis politiques et du potentiel corrupteur de ces prêts, il est important de connaitre les personnes morales comme physiques qui concèdent ces prêts.
+
+Le principe de respect à la vie privée et à la liberté d'opinion est parfaitement équilibré avec celui de confiance et de probité. 
 
 ## Open Data du financement des campagnes électorales
 
