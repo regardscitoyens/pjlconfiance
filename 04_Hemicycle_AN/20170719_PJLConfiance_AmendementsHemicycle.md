@@ -105,7 +105,7 @@ Cette décision a eu pour effet qu'aucune des déclarations d'intérêts des per
 
 Le présent amendement propose donc de retirer les informations pouvant porter atteinte à la vie privée des personnes concernées au vu de leur statut de personnes non élues tout en s'assurant de la publicité de leurs intérêts.
 
-Ainsi les fonctions professionnelles des conjoints ainsi que les informations financières ne seront pas publiés avec leurs déclarations d'intérêts.
+Ainsi les fonctions professionnelles des conjoints ainsi que les informations financières ne seront pas publiées avec leurs déclarations d'intérêts.
 
 
 ## Déclaration d'intérêts des collaborateurs et administrateurs
